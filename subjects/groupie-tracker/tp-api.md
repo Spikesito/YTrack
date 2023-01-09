@@ -18,7 +18,7 @@
   you will have to: 
  - request api 
  - retrieve data  
- - send it in strcuture 
+ - send it in structure 
  - put data on map 
  - display data with map key.
 
